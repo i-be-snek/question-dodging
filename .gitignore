@@ -1,3 +1,11 @@
+# datasets and git repos related to them
+avoidance_study
+
+# mlflow and ml runs
+mlruns
+test_trainer
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
