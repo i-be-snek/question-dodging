@@ -4,7 +4,12 @@ avoidance_study
 # mlflow and ml runs
 mlruns
 test_trainer
+mlartifacts
+notebooks/*_model_save
 
+# data
+data
+data/raw
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
